@@ -33,8 +33,6 @@ Sou estudante de Quality Assurance (QA), Psicanálise, Neurociência e Inglês. 
 ### 📚 Estudos
 
 - Quality Assurance (QA)
-- ### 📚 Estudos
-- Quality Assurance (QA)
 - Psicanálise
 - Neurociência
 - Ingles
