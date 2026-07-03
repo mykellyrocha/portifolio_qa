@@ -12,7 +12,7 @@ Sou estudante de Quality Assurance (QA), Psicanálise, Neurociência e Inglês. 
 
 - Desenvolver casos de teste
 
-- Registrar bugs
+- bugs Registrar 
 
 - Evoluir continuamente como profissional de QA
 -
